@@ -26,25 +26,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
 ![Elementor](https://img.shields.io/badge/-Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-
 ---
-
-## 🌟 Projetos em Destaque
-
-🏗️ [High Hill](https://github.com/seu-usuario/high-hill): **Software house especializada em desenvolvimento de sites.**
-
-📊 Dashboard de Vendas: **Uma página única responsiva com gráficos interativos.**
-
----
-
-## 📊 Minhas Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
----
-
-## 📫 Como Me Encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
-📧 **E-mail**: mateus@exemplo.com  
