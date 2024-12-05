@@ -1,4 +1,4 @@
-# 👋 Hello World, I am Mateus!
+# 👋 Hello World!
 
 ![Banner](https://github.com/Mateus-Blanco/images/blob/main/Design%20sem%20nome%202.png)
 
@@ -46,10 +46,10 @@
 
 ## 🌐 Conecte-se Comigo:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mateus-blanco)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-blanco-luz-47695233b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/mateus-blanco)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mateus.blanco@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mateusblanco00@gmail.com)
 
 ---
 
-© 2024 Mateus Blanco - Desenvolvedor Web e RPA 🚀
+© 2024 Mateus Blanco - Desenvolvedor Web 🚀
