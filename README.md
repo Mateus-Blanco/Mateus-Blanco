@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Mateus-Blanco/images/blob/main/Design%20sem%20nome%202.png)
 
-💻 **Desenvolvedor** especializado em **Python**, com foco em **RPA**, desenvolvimento de **dashboards interativos** e **web design**.
+💻 **Desenvolvedor** especializado em **Python**, com foco em **RPA** e **web design**.
 
 ---
 
